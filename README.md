@@ -1,5 +1,5 @@
-## Developed by: Safeeq Fazil A
-## Register number: 212222240086
+## Developed by: S VAISHNAV NANDA
+## Register number: 212222240112
 ## Date:
 
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
